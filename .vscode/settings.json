@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "prettier.prettier-vscode-beta",
+    "typescript.format.enable": false,
+    "prettier.requirePragma": true,
+    "prettier.arrowParens": "avoid",
+    "editor.formatOnSave": true
+}
