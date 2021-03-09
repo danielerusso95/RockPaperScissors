@@ -16,6 +16,7 @@ You can play Rock-Paper-Scissors with this app
 
 * HTML/CSS
 * Javascript
+* [Bootstrap](https://getbootstrap.com/)
 
 **Where Can I try the app?**
 Click [Here](https://sassocartaforbici-b4f9e.web.app/)
