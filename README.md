@@ -10,7 +10,7 @@ A project maked up to final project for Javascript super-guide.
 You can play Rock-Paper-Scissors with this app
 
 ### Screenshot
-![Image text](https://i.ibb.co/MV2zSr3/sasso-carta-forbici.png)
+![Image text](https://i.ibb.co/HnVKZky/Immagine.png)
 
 ## Technologies
 
