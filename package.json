@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Javascript start2impact project.",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "firebase": "^8.2.10"
+  },
   "devDependencies": {
     "prettier": "2.2.1"
   },
