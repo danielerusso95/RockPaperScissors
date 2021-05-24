@@ -1,12 +1,11 @@
 # Rock-Paper-Scissors
-Javascript start2impact project.
+Javascript project.
 
 ##
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 
 ### General Info
-A project maked up to final project for Javascript super-guide.
 You can play Rock-Paper-Scissors with this app
 
 ### Screenshot
